@@ -1,0 +1,4 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #faf8f4; color: #222; }
+main { padding: 24px; }
+h1 { color: #782F40; }
+svg { width: 100%; height: 70vh; background: white; border: 1px solid #ddd; }
